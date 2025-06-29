@@ -1,0 +1,8 @@
+*.node
+**/.zig-cache
+**/zig-out
+node_modules
+
+# System Files
+.DS_Store
+Thumbs.db

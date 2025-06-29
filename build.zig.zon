@@ -1,0 +1,13 @@
+.{
+    .name = .bun_buffer_from_arraybuffer,
+    .version = "0.0.0",
+    .fingerprint = 0x236e34f4c6dfb5b2,
+    .minimum_zig_version = "0.14.0",
+    .dependencies = .{
+        .tokota = .{
+            .url = "git+https://github.com/kofi-q/tokota.git#78c1f665eaa2ff4f3c695ca23e49bed65cb777a9",
+            .hash = "tokota-0.1.0-BE_-yl6nCQC8f-fM5vvfIJGxBvMmEek9KtpYVC9kC1pT",
+        },
+    },
+    .paths = .{""},
+}
